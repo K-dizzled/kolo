@@ -27,7 +27,7 @@ function ul(index) {
 function changeWindow(index) {
     switch (index) {
         case 0:
-          window.location="main.html";
+          window.location="index.html";
           break;
         case 1:
           window.location="news.html";
@@ -65,7 +65,7 @@ const logo = document.querySelector("#logo");
 
 
 logo.addEventListener('click', function () {
-    window.location="main.html";
+    window.location="index.html";
 });
 
 

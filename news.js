@@ -27,7 +27,7 @@ function ul(index) {
 function changeWindow(index) {
     switch (index) {
         case 0:
-          window.location="main.html";
+          window.location="index.html";
           break;
         case 1:
           window.location="news.html";
