@@ -1,0 +1,25 @@
+body {
+    font-family: system-ui, sans-serif;
+    background-image: url(img/backg.svg);
+    background-repeat: no-repeat;
+    background-position : 200px 100px;
+    background-size: 80%;
+  }
+
+.imgMe {
+    width: 500px;
+}
+.container {
+    padding-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.back {
+    font-size: 30px;
+    text-decoration: none!important;
+    color: black;
+    padding-top: 30px;
+    margin-left: 20px;
+}
