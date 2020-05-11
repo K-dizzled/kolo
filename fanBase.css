@@ -213,54 +213,7 @@ body #scene #left-zone .list li.item input[type="radio"] ~ label:hover {
   opacity: 0.75;
   cursor: pointer;
 }
-body #scene #left-zone .list li.item input[type="radio"] ~ label.label_strawberry:before {
-  content: " ";
-  display: block;
-  position: absolute;
-  width: 50px;
-  height: 50px;
-  margin-left: 15px;
-  background-image: url("https://d30y9cdsu7xlg0.cloudfront.net/png/83067-200.png");
-  background-position: center;
-  background-size: 75% 75%;
-  background-repeat: no-repeat;
-}
-body #scene #left-zone .list li.item input[type="radio"] ~ label.label_banana:before {
-  content: " ";
-  display: block;
-  position: absolute;
-  width: 50px;
-  height: 50px;
-  margin-left: 15px;
-  background-image: url("https://d30y9cdsu7xlg0.cloudfront.net/png/53209-200.png");
-  background-position: center;
-  background-size: 75% 75%;
-  background-repeat: no-repeat;
-}
-body #scene #left-zone .list li.item input[type="radio"] ~ label.label_apple:before {
-  content: " ";
-  display: block;
-  position: absolute;
-  width: 50px;
-  height: 50px;
-  margin-left: 15px;
-  background-image: url("https://d30y9cdsu7xlg0.cloudfront.net/png/14333-200.png");
-  background-position: center;
-  background-size: 75% 75%;
-  background-repeat: no-repeat;
-}
-body #scene #left-zone .list li.item input[type="radio"] ~ label.label_orange:before {
-  content: " ";
-  display: block;
-  position: absolute;
-  width: 50px;
-  height: 50px;
-  margin-left: 15px;
-  background-image: url("https://d30y9cdsu7xlg0.cloudfront.net/png/9636-200.png");
-  background-position: center;
-  background-size: 75% 75%;
-  background-repeat: no-repeat;
-}
+
 body #scene #left-zone .list li.item input[type="radio"] ~ .content {
   position: absolute;
   left: 350px;
@@ -283,47 +236,19 @@ body #scene #left-zone .list li.item input[type="radio"] ~ .content {
   -webkit-box-direction: normal;
           flex-direction: column;
 }
-body #scene #left-zone .list li.item input[type="radio"] ~ .content.content_strawberry .picto {
-  height: 100px;
-  width: 100px;
-  background-image: url("https://d30y9cdsu7xlg0.cloudfront.net/png/83067-200.png");
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
+
 body #scene #left-zone .list li.item input[type="radio"] ~ .content.content_strawberry h1 {
   color: #D64541;
 }
-body #scene #left-zone .list li.item input[type="radio"] ~ .content.content_banana .picto {
-  height: 100px;
-  width: 100px;
-  background-image: url("https://d30y9cdsu7xlg0.cloudfront.net/png/53209-200.png");
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
+
 body #scene #left-zone .list li.item input[type="radio"] ~ .content.content_banana h1 {
   color: #F5D76E;
 }
-body #scene #left-zone .list li.item input[type="radio"] ~ .content.content_apple .picto {
-  height: 100px;
-  width: 100px;
-  background-image: url("https://d30y9cdsu7xlg0.cloudfront.net/png/14333-200.png");
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
+
 body #scene #left-zone .list li.item input[type="radio"] ~ .content.content_apple h1 {
   color: #D64541;
 }
-body #scene #left-zone .list li.item input[type="radio"] ~ .content.content_orange .picto {
-  height: 100px;
-  width: 100px;
-  background-image: url("https://d30y9cdsu7xlg0.cloudfront.net/png/9636-200.png");
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
+
 body #scene #left-zone .list li.item input[type="radio"] ~ .content.content_orange h1 {
   color: #F5D76E;
 }
